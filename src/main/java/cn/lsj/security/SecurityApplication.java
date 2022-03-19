@@ -12,6 +12,7 @@ public class SecurityApplication {
         SpringApplication.run(SecurityApplication.class, args);
 
         System.out.println("修改代码");
+        System.out.println("*****");
     }
 
 
