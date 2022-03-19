@@ -17,6 +17,7 @@ public class SecurityApplication {
         System.out.println("*****");
 
         System.out.println("本地推送到远程");
+        System.out.println("远程推送到本地");
     }
 
 
