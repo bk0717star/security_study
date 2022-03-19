@@ -15,6 +15,8 @@ public class SecurityApplication {
         System.out.println("修改代码");
         System.out.println("....");
         System.out.println("*****");
+
+        System.out.println("本地推送到远程");
     }
 
 
